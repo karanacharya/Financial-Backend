@@ -3,6 +3,9 @@
 ## Project Overview
 This backend provides APIs for a finance dashboard system. It supports user management, role-based permissions, financial record management, and summary endpoints for dashboard reporting. The goal is to make finance data accessible while enforcing access control and validation.
 
+##**API LINK** : Below is the given link to see the full API structure used in this project : 
+https://www.postman.com/gold-meteor-13663/financial-backend/overview?sideView=agentMode
+
 ## Tech Stack
 - Node.js
 - Express
